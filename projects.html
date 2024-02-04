@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Projects</title>
+    </head>
+
+    <body id="page-container">
+        <header>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="about.html">About</a>
+                <a href="projects.html" class="active">Projects</a>
+                <a href="contact.html">Contact</a>
+            </nav>
+        </header> 
+        <div id="content-wrap">
+            <main>
+                <h1>Projects</h1>
+                <p>Here are some of my current and past projects.</p>
+                <div class="project-container">
+                    <div class="project">
+                        <img src="project1.jpg">
+                        <h1>Social Media App</h1>
+                        <p>A basic social media platform that allows users to create accounts, add friends, like and make posts via a command-line interface.
+                        </p>
+                    </div>
+                    <br>
+                    <div class="project">
+                        <img src="project2.jpg">
+                        <h1>Company MS</h1>
+                        <p>Teamed with 3 peers to design & develop a company management system using an iterative development process.
+                        </p>
+                    </div>
+                    <br>
+                    <div class="project">
+                        <img src="project3.jpg">
+                        <h1>Weather</h1>
+                        <p>A browser extension to display the current temperature of the geological location of the user.
+                        </p>
+                    </div>
+                    <br>
+                </div>
+                <p>Need a full stack web developer? Tell me about your project.</p>
+                <form action="https://postman-echo.com/post" method="post" enctype="multipart/form-data">
+                <label>
+                    Your Email:
+                    <input type="email" name="email" autocomplete="off" required placeholder="example@domain.com"/>
+                </label>
+                <select name="type" required>
+                    <option value="" disabled selected>Select project type</option>
+                    <option value="Personal Website">Personal Website</option>
+                    <option value="eCommerce">eCommerce</option>
+                    <option value="Game">Game</option>
+                </select>
+                <textarea name="concept" rows="4" cols="40" required placeholder="Enter your project concept here"></textarea>
+                <label>
+                    Attachment:
+                    <input type="file" name="attachments" required/>
+                </label>
+                <label>
+                    <label for="consent"> You agree to receive emails from me</label>
+                    <input type="checkbox" id="consent" name="consent" value="yes" required/>
+                </label>
+                <button type="submit">Send</button>
+                </form>
+            </main>    
+        </div>
+
+        <footer id="footer">
+            Copyright 2024 by singhv67.
+        </footer>
+    </body>
+
+</html>

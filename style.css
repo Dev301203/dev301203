@@ -1,0 +1,179 @@
+#page-container {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    position: relative;
+    min-height: 100vh;
+    background-color: #f8f8f8;
+}
+
+#content-wrap {
+    padding-bottom: 3rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* -------------------HEADER STYLING------------------- */
+
+header {
+    background-color: #333333;
+    color: white;
+    padding: 1rem 0;
+    border: 1px solid #000;
+    box-sizing: border-box;
+    height: 72px;
+    display: flex;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-left: 0.25rem
+}
+
+nav a {
+    color: #00b8d4;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+nav .active {
+    color: #b2f5ea;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: white;
+}
+
+/* -------------------FOOTER STYLING------------------- */
+
+footer {
+    height: 3rem;
+    background-color: #333333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-area: foot;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* ---------------MAIN AND TEXT STYLING---------------- */
+
+main {
+    margin-top: 128px;
+    margin-bottom: 128px;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    margin: 0 0.5rem 1rem 0.5rem;
+}
+
+ul {
+    display: inline-block;
+    padding-inline-start: 0;
+    list-style-type: none;
+}
+
+/* -----------------PORTRAIT STYLING------------------ */
+
+#portrait {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    object-fit: cover;
+    overflow: hidden;
+    margin-bottom: 26px;
+}
+
+/* ------------------SCHEDULE STYLING------------------ */
+
+.schedule_table {
+    overflow: auto;
+    border-collapse: collapse;
+    max-width: 100vw;
+    display: block;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    padding: 0.5rem;
+}
+
+.csc420 {
+    background-color: #ffdaf5;
+}
+.csc427 {
+    background-color: #b0e1ff;
+}
+.mat402 {
+    background-color: #e6c6ff;
+}
+
+/* ------------------PROJECTS STYLING------------------ */
+
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+.project {
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    padding: 1rem;
+    margin: 1rem;
+    max-width: 20rem;
+}
+
+.project img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* ---------------------FORM STYLING--------------------- */
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align-last: center;
+    gap: 0.5rem;
+}
+
+input, select, textarea {
+    padding: 0.5rem;
+    width: 300px;
+    box-sizing: border-box;
+}
+
+input[type="email"] {
+    width: 213px;
+}
+
+input[type="file"] {
+    width: 200px;
+}
+
+input[type="checkbox"] {
+    width: 20px;
+    transform: scale(1.5);
+}
+
+/* --------------------EMAIL STYLING-------------------- */
+
+#email{
+    font-family: 'Times New Roman', serif;
+}
