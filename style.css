@@ -143,6 +143,15 @@ th, td {
     max-height: 100%;
 }
 
+.project-link {
+    text-decoration: none;
+    color: inherit; /* Inherits color from parent */
+}
+
+.project-link:hover {
+    text-decoration: underline; /* Add underline on hover if desired */
+}
+
 /* ---------------------FORM STYLING--------------------- */
 
 form {
