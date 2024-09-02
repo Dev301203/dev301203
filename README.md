@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello! 👋<br><br>I'm a final year comp sci specialist and math major in UofT and welcome to my GitHub!<br><br>🔭 I’m currently looking for internships.<br>🌱 I’m preparing to give my ISC2 CC.<br>📫 How to reach me: My email is devanshu301203@gmail.com, you can also send me a chat on LinkedIn!<br>😄 Pronouns: He/Him<br>⚡ Interests: Doing ctfs and youtube lol
+Hello! 👋<br><br>I'm a final year comp sci specialist and math major in UofT and welcome to my GitHub!<br><br>🔭 I’m currently looking for internships.<br>🌱 I’m preparing to give my ISC2 CC.<br>📫 How to reach me: My email is devanshu301203@gmail.com, you can also send me a chat on LinkedIn!<br>😄 Pronouns: He/Him<br>⚡ Interests: ctfs and cyber-sec
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshu-singhvi) 
@@ -12,7 +13,9 @@ Hello! 👋<br><br>I'm a final year comp sci specialist and math major in UofT a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev301203&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dev301203&limit=5&theme=calm&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
