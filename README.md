@@ -10,7 +10,7 @@ Hello! 👋<br><br>I'm a final year comp sci specialist and math major in UofT a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dev301203&theme=calm&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dev301203&theme=calm&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev301203&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev301203&theme=calm&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook&langs_count=7)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
